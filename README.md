@@ -1,5 +1,9 @@
 # Fleet Management
-<i>developed by Sharan Ainapur</i>
+
+## <p style="color:teal">Authors</p>
+
+- [@sharantechuser](https://www.github.com/sharantechuser)
+
 
 ## <p style="color: orange">1. About project</p>
 This application developed by using microservice architecture using docker container
